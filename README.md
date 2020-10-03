@@ -55,6 +55,20 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [flutter.widgets](https://instagram.com/flutter.widgets?igshid=153d3aif24ujk)
 - [flutter_developer](https://instagram.com/flutter_developer?igshid=wtimpgmgxrim)
 
+
+# UI Kit
+- [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens) - Collection of nice flutter samples.
+- [Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) - Collection of useful UIs in a UIKit.
+- [FLUTTER UI CHALLENGE](https://github.com/tomialagbe/flutter_ui_challenges) - Profile App, Book Reader App, Drink Shop App .
+- [Beautiful Dashboard](https://github.com/Ivaskuu/dashboard) - Awesome Dashboard Component .
+- [Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) - Smooth Login Template .
+- [Flutter Samples](https://github.com/diegoveloper/flutter-samples) - Collection of Amazing flutter samples .
+- [Starter Kit](https://github.com/KingWu/flutter_starter_kit) - Starter kit for beginners to learn Bloc pattern, RxDart, sqflite, Fluro and Dio .
+- [Let's Clone](https://github.com/javico2609/flutter-challenges) - 18 Amazing Templates.
+- [Payment App UI](https://github.com/longhoang2984/flutter_payment_app_ui) - Stunning Payment App UI.
+- [ChatBot 🤖](https://github.com/aniketambore/ChatbotSpirit-Codebase) - Incredible Chatbot using Flutter and Dialogflow.
+- [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
+
 # Contributing
 *Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space.*
 
