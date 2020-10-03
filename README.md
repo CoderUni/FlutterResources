@@ -7,6 +7,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
+- [UI Kit](#uiKit)
+- [Youtube Channels](#ytChannels)
 - [Contributing](#contributing)
 
 # Introduction
@@ -35,28 +37,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [RxDart](https://pub.dev/packages/rxdart) - A wrapper around streams that adds additional capabilities to Streams and StreamControllers by [ReactiveX](https://github.com/ReactiveX)
 - [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
 
-# Youtube Channels 
-- [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - One of the best channels for flutter in English
-- [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - A channel for creating beautiful UIs
-- [Reso Coder](https://www.youtube.com/c/ResoCoder) - Posts a lot of tutorials about Flutter
-- [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials
-- [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in Hindi
-- [RetroPortal Studio](https://www.youtube.com/channel/UCW2ATgwtNrsBrE-piE2TIrA) - An amazing channel for UI and custom widgets development
-- [Santos Enoque](https://www.youtube.com/watch?v=Dy_zBF6rJFc&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF) - Building an E-commerce app in Flutter
-- [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI) - An entire crash course for beginners in Flutter
-- [FreeCodeCamp.org](https://www.youtube.com/watch?v=pTJJsmejUOQ) - A full tutorial for building iOS and Android apps in Flutter
-- [Google Developers](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr) - A playlist of Flutter guides from Google themselves
-
-# Instagram Pages 
-- [flutter.developers](https://instagram.com/flutter.developers?igshid=sjsr4bs4jztf)
-- [flutter.master](https://instagram.com/flutter.master?igshid=15d6lk12jag2n)
-- [coding_boy_](https://instagram.com/coding_boy_?igshid=1a386w1g4b5tl)
-- [flutter.widgets](https://instagram.com/flutter.widgets?igshid=153d3aif24ujk)
-- [flutter_developer](https://instagram.com/flutter_developer?igshid=wtimpgmgxrim)
-
-
-# UI Kit
+# UI Kit<a name="uiKit"></a>
 - [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens) - Collection of nice flutter samples.
 - [Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) - Collection of useful UIs in a UIKit.
 - [FLUTTER UI CHALLENGE](https://github.com/tomialagbe/flutter_ui_challenges) - Profile App, Book Reader App, Drink Shop App .
@@ -68,6 +49,19 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Payment App UI](https://github.com/longhoang2984/flutter_payment_app_ui) - Stunning Payment App UI.
 - [ChatBot 🤖](https://github.com/aniketambore/ChatbotSpirit-Codebase) - Incredible Chatbot using Flutter and Dialogflow.
 - [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
+
+# Youtube Channels<a name="ytChannels"></a>
+- [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - One of the best channels for flutter in English
+- [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - A channel for creating beautiful UIs
+- [Reso Coder](https://www.youtube.com/c/ResoCoder) - Posts a lot of tutorials about Flutter
+- [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials
+- [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in Hindi
+- [RetroPortal Studio](https://www.youtube.com/channel/UCW2ATgwtNrsBrE-piE2TIrA) - An amazing channel for UI and custom widgets development
+- [Santos Enoque](https://www.youtube.com/watch?v=Dy_zBF6rJFc&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF) - Building an E-commerce app in Flutter
+- [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI) - An entire crash course for beginners in Flutter
+- [FreeCodeCamp.org](https://www.youtube.com/watch?v=pTJJsmejUOQ) - A full tutorial for building iOS and Android apps in Flutter
+- [Google Developers](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr) - A playlist of Flutter guides from Google themselves
 
 # Contributing
 *Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space.*
