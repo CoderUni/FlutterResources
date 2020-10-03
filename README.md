@@ -7,9 +7,12 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
-- [UI Kit](#uiKit)
-- [Youtube Channels](#ytChannels)
+- [UI Kit](#ui-kit)
+- [Youtube Channels](#youtube-channels)
+- [Firebase](#firebase)
+- [Machine Learning](#machine-learning)
 - [Contributing](#contributing)
+- [Support Me](#support-me)
 
 # Introduction
 - [Flutter](https://flutter.dev/) is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase
@@ -52,6 +55,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Payment App UI](https://github.com/longhoang2984/flutter_payment_app_ui) - Stunning Payment App UI.
 - [ChatBot 🤖](https://github.com/aniketambore/ChatbotSpirit-Codebase) - Incredible Chatbot using Flutter and Dialogflow.
 - [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
+- [GetWidget](https://github.com/ionicfirebaseapp/getwidget) - GetWidget is open source libraries that come with pre-build 1000+ UI components.
 
 # Youtube Channels<a name="ytChannels"></a>
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
@@ -68,6 +72,22 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [FilledStacks](https://www.youtube.com/c/FilledStacks/playlists) - A Channel for Flutter Production Code
 - [ReactBits](https://www.youtube.com/c/ReactBits/playlists) - Flutter + Appwrite Tutorial Series
 - [Flutter Explained](https://www.youtube.com/c/FlutterExplained) - The Wikipedia For Flutter development
+
+# Firebase<a name="firebase"></a>
+- [Firebase Installation](https://firebase.google.com/docs/flutter/setup?platform=android) - Official Documentation on how to setup Firebase for your Flutter apps
+- [FlutterFire](https://firebase.flutter.dev/docs/overview/) - Official Documentation of Flutter's Firebase plugins
+- [Firestore vs RTDB](https://firebase.google.com/docs/database/rtdb-vs-firestore) - Official Documentation that helps you choose between Firebase Realtime Database vs Firestore
+- [Firestore vs RTDB Article](https://medium.com/zero-equals-false/firebase-cloud-firestore-v-s-firebase-realtime-database-931d4265d4b0) - An article that points out the uses of Firestore vs RTDB
+
+
+
+# Machine Learning<a name="machineLearning"></a>
+- [TFLite](https://pub.dev/packages/tflite) - A Flutter plugin for accessing TensorFlow Lite. Supports both iOS and Android.
+- [Speech_to_Text](https://pub.dev/packages/speech_to_text) - A Flutter plugin that exposes device specific speech to text recognition capability.
+- [Firebase_ML_Vision](https://pub.dev/packages/firebase_ml_vision) - Flutter plugin for Firebase machine learning vision services.
+- [Edge_Detection](https://pub.dev/packages/edge_detection) - A flutter plugin to detect edges of objects, scan paper, detect corner, detect rectangle. It allows cropping of the detected object image and returns the path of the cropped image.
+
+
 
 # Contributing
 *Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space.*
