@@ -3,8 +3,6 @@ A list of Free Flutter resources that will help people get started with Flutter.
 ![Flutter](flutter.png)
 
 # Content
-- [Flutter Resources](#flutter-resources)
-- [Content](#content)
 - [Introduction](#introduction)
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
