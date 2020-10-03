@@ -12,9 +12,11 @@ A list of Free Flutter resources that will help people get started with Flutter.
 
 # Introduction
 - [Flutter](https://flutter.dev/) Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase
+- [Flutter Installation](https://flutter.dev/docs/get-started/install) - Get Started by installing Flutter in your machine
 - [Flutter for Beginners](https://www.youtube.com/watch?v=fmPmrJGbb6w&list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB) - Youtube playlist about building apps with Flutter
 - [Dart for Beginners](https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q) - Youtube playlist about the Dart programming language
 - [Flutter Basics](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - Youtube playlist that teaches the basics and uses the learned knowledge to create a Time app
+- [Http Requests](https://medium.com/swlh/how-to-make-http-requests-in-flutter-d12e98ee1cef) - A medium article teaching how to make http requests to a server
 
 # Beginner
 - [Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) - Introducing new widgets every week by [Flutter](https://www.youtube.com/c/flutterdev)
@@ -30,7 +32,9 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animation Tutorial](https://www.youtube.com/watch?v=OtrWXLfGtqE&list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - A video playlist tutorial about using animations in Flutter by [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 # Advanced 
-
+- [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
+- [RxDart](https://pub.dev/packages/rxdart) - A wrapper around streams that adds additional capabilities to Streams and StreamControllers by [ReactiveX](https://github.com/ReactiveX)
+- [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
 
 # Contributing
  > Good Quality contributions are welcomed. Just don't make spammy low-quality PRs.
