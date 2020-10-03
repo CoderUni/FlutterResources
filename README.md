@@ -8,7 +8,6 @@ A list of Flutter resources that will help people get started with Flutter.
 
 #Beginner
 
-#Get Started
 
 #Contributing
  > Good Quality contributions are welcomed. Just don't make spammy low-quality PRs.
