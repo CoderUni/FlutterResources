@@ -9,6 +9,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Advanced](#advanced)
 - [UI Kit](#ui-kit)
 - [Youtube Channels](#youtube-channels)
+- [Books](#books)
 - [Firebase](#firebase)
 - [Machine Learning](#machine-learning)
 - [Contributing](#contributing)
@@ -68,6 +69,12 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Google Developers](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr) - A playlist of Flutter guides from Google themselves
 - [FilledStacks](https://www.youtube.com/c/FilledStacks/playlists) - A Channel for Flutter Production Code
 - [ReactBits](https://www.youtube.com/c/ReactBits/playlists) - Flutter + Appwrite Tutorial Series
+
+# Books<a name="books"></a>
+- [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
+- [Beginning App Development with Flutter](https://www.amazon.com/Beginning-App-Development-Flutter-Cross-Platform/dp/1484251806) - Easy to understand starter book.
+- [Flutter for Beginners](https://www.amazon.com/Flutter-Beginners-introductory-cross-platform-applications/dp/1788996089) - A step-by-step guide to learning Flutter and Dart 2.X
+- [Learn Google Flutter Fast: 65 Example Apps](https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375) - Learn Google Flutter by example. Over 65 example mini-apps.
 
 # Firebase<a name="firebase"></a>
 - [Firebase Installation](https://firebase.google.com/docs/flutter/setup?platform=android) - Official Documentation on how to setup Firebase for your Flutter apps
