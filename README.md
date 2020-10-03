@@ -51,4 +51,4 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [flutter_developer](https://instagram.com/flutter_developer?igshid=wtimpgmgxrim)
 
 # Contributing
- > Good Quality contributions are welcomed. Just don't make spammy low-quality PRs.
+**Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space.**
