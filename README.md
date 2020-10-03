@@ -31,7 +31,6 @@ A list of Free Flutter resources that will help people get started with Flutter.
 
 # Advanced 
 
-# Firebase
 
-##Contributing
+# Contributing
  > Good Quality contributions are welcomed. Just don't make spammy low-quality PRs.
