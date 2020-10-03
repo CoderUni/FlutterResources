@@ -37,12 +37,12 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
 
 # Youtube Channels 
-- [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter is the best place to get started.
-- [The net ninja](https://www.youtube.com/c/TheNetNinja) - One of the best channel for flutter in English.
-- [The flutter way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - It has 66k subscribe.
-- [Reso Coder](https://www.youtube.com/c/ResoCoder) - Here you can find lot of content.
-- [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials.
-- [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in hindi.
+- [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - One of the best channels for flutter in English
+- [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - A channel for creating beautiful UIs
+- [Reso Coder](https://www.youtube.com/c/ResoCoder) - Posts a lot of tutorials about Flutter
+- [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials
+- [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in Hindi
 
 # Instagram Pages 
 - [flutter.developers](https://instagram.com/flutter.developers?igshid=sjsr4bs4jztf)
