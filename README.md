@@ -7,10 +7,12 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
-- [UI Kit](#uiKit)
-- [Youtube Channels](#ytChannels)
-- [Machine Learning](#machineLearning)
+- [UI Kit](#ui-kit)
+- [Youtube Channels](#youtube-channels)
+- [Firebase](#firebase)
+- [Machine Learning](#machine-learning)
 - [Contributing](#contributing)
+- [Support Me](#support-me)
 
 # Introduction
 - [Flutter](https://flutter.dev/) is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase
@@ -66,6 +68,14 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Google Developers](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr) - A playlist of Flutter guides from Google themselves
 - [FilledStacks](https://www.youtube.com/c/FilledStacks/playlists) - A Channel for Flutter Production Code
 - [ReactBits](https://www.youtube.com/c/ReactBits/playlists) - Flutter + Appwrite Tutorial Series
+
+# Firebase<a name="firebase"></a>
+- [Firebase Installation](https://firebase.google.com/docs/flutter/setup?platform=android) - Official Documentation on how to setup Firebase for your Flutter apps
+- [FlutterFire](https://firebase.flutter.dev/docs/overview/) - Official Documentation of Flutter's Firebase plugins
+- [Firestore vs RTDB](https://firebase.google.com/docs/database/rtdb-vs-firestore) - Official Documentation that helps you choose between Firebase Realtime Database vs Firestore
+- [Firestore vs RTDB Article](https://medium.com/zero-equals-false/firebase-cloud-firestore-v-s-firebase-realtime-database-931d4265d4b0) - An article that points out the uses of Firestore vs RTDB
+
+
 
 # Machine Learning<a name="machineLearning"></a>
 - [TFLite](https://pub.dev/packages/tflite) - A Flutter plugin for accessing TensorFlow Lite. Supports both iOS and Android.
