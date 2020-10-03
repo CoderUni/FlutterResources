@@ -8,7 +8,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
-- [Firebase](#firebase)
+- [Contributing](#contributing)
 
 # Introduction
 - [Flutter](https://flutter.dev/) Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase
