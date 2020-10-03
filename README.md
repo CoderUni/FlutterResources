@@ -10,7 +10,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Contributing](#contributing)
 
 # Introduction
-- [Flutter](https://flutter.dev/) Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase
+- [Flutter](https://flutter.dev/) is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase
 - [Flutter Installation](https://flutter.dev/docs/get-started/install) - Get Started by installing Flutter in your machine
 - [Flutter for Beginners](https://www.youtube.com/watch?v=fmPmrJGbb6w&list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB) - Youtube playlist about building apps with Flutter
 - [Dart for Beginners](https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q) - Youtube playlist about the Dart programming language
