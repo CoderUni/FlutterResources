@@ -36,7 +36,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [RxDart](https://pub.dev/packages/rxdart) - A wrapper around streams that adds additional capabilities to Streams and StreamControllers by [ReactiveX](https://github.com/ReactiveX)
 - [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
 
-#Youtube Channels 
+# Youtube Channels 
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter is the best place to get started.
 - [The net ninja](https://www.youtube.com/c/TheNetNinja) - One of the best channel for flutter in English.
 - [The flutter way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - It has 66k subscribe.
@@ -44,11 +44,11 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials.
 - [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in hindi.
 
-#Instagram Pages 
+# Instagram Pages 
 - [flutter.developers](https://instagram.com/flutter.developers?igshid=sjsr4bs4jztf)
 - [flutter.master](https://instagram.com/flutter.master?igshid=15d6lk12jag2n)
 - [coding_boy_](https://instagram.com/coding_boy_?igshid=1a386w1g4b5tl)
-- [flutter.widgets]https://instagram.com/flutter.widgets?igshid=153d3aif24ujk)
+- [flutter.widgets](https://instagram.com/flutter.widgets?igshid=153d3aif24ujk)
 - [flutter_developer](https://instagram.com/flutter_developer?igshid=wtimpgmgxrim)
 
 # Contributing
