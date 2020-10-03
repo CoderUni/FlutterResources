@@ -68,6 +68,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Google Developers](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr) - A playlist of Flutter guides from Google themselves
 - [FilledStacks](https://www.youtube.com/c/FilledStacks/playlists) - A Channel for Flutter Production Code
 - [ReactBits](https://www.youtube.com/c/ReactBits/playlists) - Flutter + Appwrite Tutorial Series
+- [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Is a free practical programming course for beginners
 
 # Firebase<a name="firebase"></a>
 - [Firebase Installation](https://firebase.google.com/docs/flutter/setup?platform=android) - Official Documentation on how to setup Firebase for your Flutter apps
