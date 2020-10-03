@@ -9,6 +9,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Advanced](#advanced)
 - [UI Kit](#uiKit)
 - [Youtube Channels](#ytChannels)
+- [Machine Learning](#machineLearning)
 - [Contributing](#contributing)
 
 # Introduction
@@ -64,6 +65,15 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Google Developers](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr) - A playlist of Flutter guides from Google themselves
 - [FilledStacks](https://www.youtube.com/c/FilledStacks/playlists) - A Channel for Flutter Production Code
 - [ReactBits](https://www.youtube.com/c/ReactBits/playlists) - Flutter + Appwrite Tutorial Series
+
+# Machine Learning<a name="machineLearning"></a>
+- [TFLite](https://pub.dev/packages/tflite) - A Flutter plugin for accessing TensorFlow Lite. Supports both iOS and Android.
+- [Speech_to_Text](https://pub.dev/packages/speech_to_text) - A Flutter plugin that exposes device specific speech to text recognition capability.
+- [Firebase_ML_Vision](https://pub.dev/packages/firebase_ml_vision) - Flutter plugin for Firebase machine learning vision services.
+- [Edge_Detection](https://pub.dev/packages/edge_detection) - A flutter plugin to detect edges of objects, scan paper, detect corner, detect rectangle. It allows cropping of the detected object image and returns the path of the cropped image.
+- [FilledStacks](https://www.youtube.com/c/FilledStacks/playlists) - A Channel for Flutter Production Code
+- [ReactBits](https://www.youtube.com/c/ReactBits/playlists) - Flutter + Appwrite Tutorial Series
+
 # Contributing
 *Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space.*
 
