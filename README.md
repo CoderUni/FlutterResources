@@ -1,8 +1,10 @@
 # Flutter Resources
+
 A list of Free Flutter resources that will help people get started with Flutter.
 ![Flutter](flutter.png)
 
 # Content
+
 - [Introduction](#introduction)
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
@@ -18,6 +20,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Support Me](#support-me)
 
 # Introduction
+
 - [Flutter](https://flutter.dev/) is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase
 - [Flutter Installation](https://flutter.dev/docs/get-started/install) - Get Started by installing Flutter in your machine
 - [Flutter for Beginners](https://www.youtube.com/watch?v=fmPmrJGbb6w&list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB) - Youtube playlist about building apps with Flutter
@@ -26,11 +29,13 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Http Requests](https://medium.com/swlh/how-to-make-http-requests-in-flutter-d12e98ee1cef) - A medium article teaching how to make http requests to a server
 
 # Beginner
+
 - [Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) - Introducing new widgets every week by [Flutter](https://www.youtube.com/c/flutterdev)
 - [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale)
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
 
 # Intermediate
+
 - [FlutterFire](https://firebase.flutter.dev/docs/overview/) - FlutterFire is a set of Flutter plugins which connect your Flutter application to [Firebase](https://firebase.google.com/)
 - [State Management](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options) - A list of State-Management Approaches in Flutter
 - [Provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable by [Remi Rousselet](https://github.com/rrousselGit)
@@ -42,16 +47,19 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animation CheatSheet](https://codesearchonline.com/index.php/flutter-implicit-animation/) - Flutter Implicit Animation Widgets CheatSheet
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
 - [Forms in Flutter](https://www.youtube.com/watch?v=2C16OP-xIwU&list=PLaY6YJMqp51ctPHYg1VAZ7wIs30cjhXNC) - Forms in Flutter with Validation Unit Test
+- [Animation in Flutter](https://www.didierboelens.com/2018/06/animations-in-flutter-easy-guide-tutorial/) - Animation in Flutter Easy Guide by [boeledi](https://github.com/boeledi/guillotine)
 
 # Advanced
+
 - [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
 - [RxDart](https://pub.dev/packages/rxdart) - A wrapper around streams that adds additional capabilities to Streams and StreamControllers by [ReactiveX](https://github.com/ReactiveX)
 - [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
-- [Flutter Hooks](https://pub.dev/packages/flutter_hooks) - Hooks are a new kind of object that manages a Widget life-cycles. They exist for one reason: increase the code-sharing between widgets by removing duplicates by [dash-overflow.net](https://pub.dev/publishers/dash-overflow.net/packages). A Flutter implementation of React hooks.  
+- [Flutter Hooks](https://pub.dev/packages/flutter_hooks) - Hooks are a new kind of object that manages a Widget life-cycles. They exist for one reason: increase the code-sharing between widgets by removing duplicates by [dash-overflow.net](https://pub.dev/publishers/dash-overflow.net/packages). A Flutter implementation of React hooks.
 - [Immutable Data Patterns in Dart and Flutter](https://dart-academy.cdn.ampproject.org/c/s/dart.academy/immutable-data-patterns-in-dart-and-flutter/amp/) - Immutable Data Patterns in Dart and Flutter
 - [Slivers](https://medium.com/swlh/flutter-slivers-and-customscrollview-1aaadf96e35a) - A medium article explaining what Slivers are and how to use them.
 
 # UI Kit<a name="uiKit"></a>
+
 - [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens) - Collection of nice flutter samples.
 - [Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) - Collection of useful UIs in a UIKit.
 - [FLUTTER UI CHALLENGE](https://github.com/tomialagbe/flutter_ui_challenges) - Profile App, Book Reader App, Drink Shop App .
@@ -67,6 +75,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [NASA APOD](https://github.com/sainiteshb/NASA-Apod-flutter) - NASA APOD fetches data from NASA API and displays information.
 
 # Youtube Channels<a name="ytChannels"></a>
+
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - One of the best channels for flutter in English
 - [Sanskar Tiwari](https://www.youtube.com/channel/UCsPdgUIoOBTBI1UmulW1pdw) - A channel for beautiful UI and API integration.
@@ -91,18 +100,21 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Babbar CODE HELP](https://www.youtube.com/channel/UCldyi11QYNXYXiLjVbyw5dA) - Have a Flutter Series 2020 playlist in Hindi (Project Based Learning) .
 
 # Books<a name="books"></a>
+
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
 - [Beginning App Development with Flutter](https://www.amazon.com/Beginning-App-Development-Flutter-Cross-Platform/dp/1484251806) - Easy to understand starter book.
 - [Flutter for Beginners](https://www.amazon.com/Flutter-Beginners-introductory-cross-platform-applications/dp/1788996089) - A step-by-step guide to learning Flutter and Dart 2.X
 - [Learn Google Flutter Fast: 65 Example Apps](https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375) - Learn Google Flutter by example. Over 65 example mini-apps.
 
 # Firebase<a name="firebase"></a>
+
 - [Firebase Installation](https://firebase.google.com/docs/flutter/setup?platform=android) - Official Documentation on how to setup Firebase for your Flutter apps
 - [FlutterFire](https://firebase.flutter.dev/docs/overview/) - Official Documentation of Flutter's Firebase plugins
 - [Firestore vs RTDB](https://firebase.google.com/docs/database/rtdb-vs-firestore) - Official Documentation that helps you choose between Realtime Database vs Firestore
 - [Firestore vs RTDB Article](https://medium.com/zero-equals-false/firebase-cloud-firestore-v-s-firebase-realtime-database-931d4265d4b0) - An article that points out the uses of Firestore vs RTDB
 
 # Animation Plugins<a name="animationPlugins"></a>
+
 - [Dough](https://pub.dev/packages/dough) - Let's create Squishy UI.
 - [Animation Set](https://github.com/YYFlutter/flutter-animation-set) - Simplified Flutter stagger animation.
 - [Spinkit](https://github.com/jogboms/flutter_spinkit) - A Collection of loading indicators animated with flutter.
@@ -111,12 +123,14 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animated Text Kit](https://github.com/aagarwal1012/Animated-Text-Kit) - A collection of some cool and awesome text animations.
 
 # Machine Learning<a name="machineLearning"></a>
+
 - [TFLite](https://pub.dev/packages/tflite) - A Flutter plugin for accessing TensorFlow Lite. Supports both iOS and Android.
 - [Speech_to_Text](https://pub.dev/packages/speech_to_text) - A Flutter plugin that exposes device specific speech to text recognition capability.
 - [Firebase_ML_Vision](https://pub.dev/packages/firebase_ml_vision) - Flutter plugin for Firebase machine learning vision services.
 - [Edge_Detection](https://pub.dev/packages/edge_detection) - A flutter plugin to detect edges of objects, scan paper, detect corner, detect rectangle. It allows cropping of the detected object image and returns the path of the cropped image.
 
 # Best Pratices<a name="bestPractices"></a>
+
 - [State Management Grand Tour](https://fireship.io/lessons/flutter-state-management-guide/) - An article/video explaining the different state management approaches and why you should not use setState
 - [Safe Async](https://recipes.tst.sh/docs/architecture/safe-async.html) - An article that teaches how to make FutureBuilder/StreamBuilder properly
 - [Performance](https://flutter.dev/docs/perf/rendering/best-practices) - Official Flutter documentation on how to make your Flutter app as performant as possible
@@ -125,10 +139,10 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Best Practices](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) - An article that shows the best practices in Flutter
 - [Responsive Design in Flutter](https://flutter.dev/docs/development/ui/layout/responsive) - An article about how to create a responsive design that works for all devices like phones, web and desktop
 
-
-
 # Contributing
-*Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space.*
+
+_Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space._
 
 # Support Me
+
 <a href="https://www.buymeacoffee.com/resource" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
