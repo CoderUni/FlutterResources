@@ -103,6 +103,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Safe Async](https://recipes.tst.sh/docs/architecture/safe-async.html) - An article that teaches how to make FutureBuilder/StreamBuilder properly
 - [Performance](https://flutter.dev/docs/perf/rendering/best-practices) - Official Flutter documentation on how to make your Flutter app as performant as possible
 - [Stateless Widget vs Widget Function](https://stackoverflow.com/questions/53234825/what-is-the-difference-between-functions-and-classes-to-create-reusable-widgets) - A StackOverFlow answer explaining why its better to use Stateless Widgets to build reusable widgets.
+- [Style Guides](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) - A Github Wiki showing the style guides for a Flutter project
 - [Best Practices](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) - An article that shows the best practices in Flutter
 
 # Contributing
