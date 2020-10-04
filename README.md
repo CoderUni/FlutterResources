@@ -12,6 +12,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Books](#books)
 - [Firebase](#firebase)
 - [Machine Learning](#machine-learning)
+- [Best Practices](#bestPractices)
 - [Contributing](#contributing)
 - [Support Me](#support-me)
 
@@ -66,7 +67,6 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - A channel for creating beautiful UIs
 - [Reso Coder](https://www.youtube.com/c/ResoCoder) - Posts a lot of tutorials about Flutter
 - [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials
-- [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in Hindi
 - [RetroPortal Studio](https://www.youtube.com/channel/UCW2ATgwtNrsBrE-piE2TIrA) - An amazing channel for UI and custom widgets development
 - [Santos Enoque](https://www.youtube.com/watch?v=Dy_zBF6rJFc&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF) - Building an E-commerce app in Flutter
 - [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI) - An entire crash course for beginners in Flutter
@@ -75,6 +75,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [FilledStacks](https://www.youtube.com/c/FilledStacks/playlists) - A Channel for Flutter Production Code
 - [ReactBits](https://www.youtube.com/c/ReactBits/playlists) - Flutter + Appwrite Tutorial Series
 - [Flutter Explained](https://www.youtube.com/c/FlutterExplained) - The Wikipedia For Flutter development
+- [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Practical programming course for beginners
+- [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in Hindi
 
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
@@ -88,15 +90,18 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Firestore vs RTDB](https://firebase.google.com/docs/database/rtdb-vs-firestore) - Official Documentation that helps you choose between Firebase Realtime Database vs Firestore
 - [Firestore vs RTDB Article](https://medium.com/zero-equals-false/firebase-cloud-firestore-v-s-firebase-realtime-database-931d4265d4b0) - An article that points out the uses of Firestore vs RTDB
 
-
-
 # Machine Learning<a name="machineLearning"></a>
 - [TFLite](https://pub.dev/packages/tflite) - A Flutter plugin for accessing TensorFlow Lite. Supports both iOS and Android.
 - [Speech_to_Text](https://pub.dev/packages/speech_to_text) - A Flutter plugin that exposes device specific speech to text recognition capability.
 - [Firebase_ML_Vision](https://pub.dev/packages/firebase_ml_vision) - Flutter plugin for Firebase machine learning vision services.
 - [Edge_Detection](https://pub.dev/packages/edge_detection) - A flutter plugin to detect edges of objects, scan paper, detect corner, detect rectangle. It allows cropping of the detected object image and returns the path of the cropped image.
 
-
+# Best Pratices<a name="bestPractices"></a>
+- [State Management Grand Tour](https://fireship.io/lessons/flutter-state-management-guide/) - An article/video explaining the different state management approaches and why you should not use setState
+- [Safe Async](https://recipes.tst.sh/docs/architecture/safe-async.html) - An article that teaches how to make FutureBuilder/StreamBuilder properly
+- [Performance](https://flutter.dev/docs/perf/rendering/best-practices) - Official Flutter documentation on how to make your Flutter app as performant as possible
+- [Stateless Widget vs Widget Function](https://stackoverflow.com/questions/53234825/what-is-the-difference-between-functions-and-classes-to-create-reusable-widgets) - A StackOverFlow answer explaining why its better to use Stateless Widgets to build reusable widgets.
+- [Best Practices](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) - An article that shows the best practices in Flutter
 
 # Contributing
 *Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space.*
