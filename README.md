@@ -8,6 +8,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
 - [UI Kit](#ui-kit)
+- [Wonderful Animations Plugin's](# Wonderful Animation Plugin's)
 - [Youtube Channels](#youtube-channels)
 - [Books](#books)
 - [Firebase](#firebase)
@@ -42,7 +43,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
 - [Forms in Flutter](https://www.youtube.com/watch?v=2C16OP-xIwU&list=PLaY6YJMqp51ctPHYg1VAZ7wIs30cjhXNC) - Forms in Flutter with Validation Unit Test
 
-# Advanced 
+# Advanced
 - [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
 - [RxDart](https://pub.dev/packages/rxdart) - A wrapper around streams that adds additional capabilities to Streams and StreamControllers by [ReactiveX](https://github.com/ReactiveX)
 - [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
@@ -63,7 +64,15 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [ChatBot 🤖](https://github.com/aniketambore/ChatbotSpirit-Codebase) - Incredible Chatbot using Flutter and Dialogflow.
 - [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
 - [GetWidget](https://github.com/ionicfirebaseapp/getwidget) - GetWidget is open source libraries that come with pre-build 1000+ UI components.
-- [NASA APOD](https://github.com/sainiteshb/NASA-Apod-flutter) - NASA APOD fetches data from NASA API and displays information
+- [NASA APOD](https://github.com/sainiteshb/NASA-Apod-flutter) - NASA APOD fetches data from NASA API and displays information.
+
+# Wonderful Animation Plugin's
+- [Dough](https://pub.dev/packages/dough) - Let's create Squishy UI.
+- [Animation Set](https://github.com/YYFlutter/flutter-animation-set) - Simplified Flutter stagger animation.
+- [Spinkit](https://github.com/jogboms/flutter_spinkit) - A Collection of loading indicators animated with flutter.
+- [Drawing Animation](https://github.com/biocarl/drawing_animation) - Create Drawing Animations by SVG paths .
+- [Simple Animation](https://github.com/felixblaschke/simple_animations/tree/master/simple_animations) -Simple Animations is a powerful framework to create beautiful custom animations in no time.
+- [Animated Text Kit](https://github.com/aagarwal1012/Animated-Text-Kit) - A collection of some cool and awesome text animations.
 
 # Youtube Channels<a name="ytChannels"></a>
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
@@ -86,6 +95,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in Hindi
 - [Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured) - A Channel for beginners in Flutter to have a strong fundamental understanding
 - [CodeX](https://www.youtube.com/c/CodeXdev/playlists) - CodeX shares tutorial videos related to Mobile Application Development and other programming aspects. If you're student, beginner programmer or even expert developer consider subscribing the channel to be updated with latest of Mobile development.
+- [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator.
+
 
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
@@ -112,6 +123,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Stateless Widget vs Widget Function](https://stackoverflow.com/questions/53234825/what-is-the-difference-between-functions-and-classes-to-create-reusable-widgets) - A StackOverFlow answer explaining why its better to use Stateless Widgets to build reusable widgets.
 - [Style Guides](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) - A Github Wiki showing the style guides for a Flutter project
 - [Best Practices](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) - An article that shows the best practices in Flutter
+
+
 
 # Contributing
 *Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space.*
