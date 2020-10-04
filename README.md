@@ -64,10 +64,13 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [ChatBot 🤖](https://github.com/aniketambore/ChatbotSpirit-Codebase) - Incredible Chatbot using Flutter and Dialogflow.
 - [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
 - [GetWidget](https://github.com/ionicfirebaseapp/getwidget) - GetWidget is open source libraries that come with pre-build 1000+ UI components.
-
+- [NASA APOD](https://github.com/sainiteshb/NASA-Apod-flutter) - NASA APOD fetches data from NASA API and displays information
 # Youtube Channels<a name="ytChannels"></a>
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - One of the best channels for flutter in English
+- [Sanskar Tiwari](https://www.youtube.com/channel/UCsPdgUIoOBTBI1UmulW1pdw) - A channel for beautiful UI and API integration.
+- [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w) - A channel for UI and flutter web tutorials
+- [Raja Yogan](https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ) - A channel for logical and Backend tutorials for flutter
 - [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - A channel for creating beautiful UIs
 - [Reso Coder](https://www.youtube.com/c/ResoCoder) - Posts a lot of tutorials about Flutter
 - [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials
