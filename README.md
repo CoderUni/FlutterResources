@@ -34,6 +34,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [State Management](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options) - A list of State-Management Approaches in Flutter
 - [Provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable by [Remi Rousselet](https://github.com/rrousselGit)
 - [RiverPod](https://riverpod.dev/) - Compile safe, Provider, without its limitations, Doesn't depend on Flutter by [Remi Rousselet](https://github.com/rrousselGit)
+- [MVVM + Provider](https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo) - A Flutter MVVM + Provider implementation sample application by [Shubham Chhimpa](https://github.com/shubham-chhimpa)
 - [Animation Intro](https://flutter.dev/docs/development/ui/animations) - An introduction in creating animations by [Flutter](https://flutter.dev/)
 - [Animation Intro Youtube Playlist Version](https://www.youtube.com/watch?v=GXIJJkq_H8g&list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua) by [Flutter](https://www.youtube.com/c/flutterdev)
 - [Animation Tutorial](https://www.youtube.com/watch?v=OtrWXLfGtqE&list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - A video playlist tutorial about using animations in Flutter by [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
