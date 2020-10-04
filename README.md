@@ -77,6 +77,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Explained](https://www.youtube.com/c/FlutterExplained) - The Wikipedia For Flutter development
 - [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Practical programming course for beginners
 - [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in Hindi
+- [Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured) - A Channel for beginners in Flutter to have a strong fundamental understanding
 
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
