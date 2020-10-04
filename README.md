@@ -86,8 +86,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in Hindi
 - [Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured) - A Channel for beginners in Flutter to have a strong fundamental understanding
 - [CodeX](https://www.youtube.com/c/CodeXdev/playlists) - CodeX shares tutorial videos related to Mobile Application Development and other programming aspects. If you're student, beginner programmer or even expert developer consider subscribing the channel to be updated with latest of Mobile development.
-- [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator, he doesn't have a lot of free time 😅 Yet he still manages to squeeze in tough workouts 💪
-
+- [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
 - [Beginning App Development with Flutter](https://www.amazon.com/Beginning-App-Development-Flutter-Cross-Platform/dp/1484251806) - Easy to understand starter book.
