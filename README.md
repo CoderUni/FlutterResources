@@ -81,7 +81,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w) - A channel for UI and flutter web tutorials
 - [Raja Yogan](https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ) - A channel for logical and Backend tutorials for flutter
 - [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - A channel for creating beautiful UIs
-- [Reso Coder](https://www.youtube.com/c/ResoCoder) - Posts a lot of tutorials about Flutter
+- [Reso Coder](https://www.youtube.com/c/ResoCoder) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator
 - [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials
 - [RetroPortal Studio](https://www.youtube.com/channel/UCW2ATgwtNrsBrE-piE2TIrA) - An amazing channel for UI and custom widgets development
 - [Santos Enoque](https://www.youtube.com/watch?v=Dy_zBF6rJFc&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF) - Building an E-commerce app in Flutter
@@ -96,6 +96,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured) - A Channel for beginners in Flutter to have a strong fundamental understanding
 - [CodeX](https://www.youtube.com/c/CodeXdev/playlists) - CodeX shares tutorial videos related to Mobile Application Development and other programming aspects. If you're student, beginner programmer or even expert developer consider subscribing the channel to be updated with latest of Mobile development.
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator.
+
 
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
