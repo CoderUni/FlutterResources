@@ -27,6 +27,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Dart for Beginners](https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q) - Youtube playlist about the Dart programming language
 - [Flutter Basics](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - Youtube playlist that teaches the basics and uses the learned knowledge to create a Time app
 - [Http Requests](https://medium.com/swlh/how-to-make-http-requests-in-flutter-d12e98ee1cef) - A medium article teaching how to make http requests to a server
+- [Awesome Flutter Talk](https://github.com/Rahiche/awesome-flutter-talks) - is an Github repo that save a list of Youtube url about Flutter Talk from 2011 to 2020
 
 # Beginner
 
