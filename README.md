@@ -39,6 +39,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
 - [RxDart](https://pub.dev/packages/rxdart) - A wrapper around streams that adds additional capabilities to Streams and StreamControllers by [ReactiveX](https://github.com/ReactiveX)
 - [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
+- [Flutter Hooks](https://pub.dev/packages/flutter_hooks) - Hooks are a new kind of object that manages a Widget life-cycles. They exist for one reason: increase the code-sharing between widgets by removing duplicates by [dash-overflow.net](https://pub.dev/publishers/dash-overflow.net/packages). A Flutter implementation of React hooks.  
 
 # UI Kit<a name="uiKit"></a>
 - [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens) - Collection of nice flutter samples.
