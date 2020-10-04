@@ -112,6 +112,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Stateless Widget vs Widget Function](https://stackoverflow.com/questions/53234825/what-is-the-difference-between-functions-and-classes-to-create-reusable-widgets) - A StackOverFlow answer explaining why its better to use Stateless Widgets to build reusable widgets.
 - [Style Guides](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) - A Github Wiki showing the style guides for a Flutter project
 - [Best Practices](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) - An article that shows the best practices in Flutter
+- [Responsive Design in Flutter](https://flutter.dev/docs/development/ui/layout/responsive) - An article about how to create a responsive design that works for all devices like phones, web and desktop
 
 # Contributing
 *Good Quality contributions are welcomed. Just don't make spammy low-quality contributions like adding an extra space.*
