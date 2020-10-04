@@ -87,7 +87,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 # Firebase<a name="firebase"></a>
 - [Firebase Installation](https://firebase.google.com/docs/flutter/setup?platform=android) - Official Documentation on how to setup Firebase for your Flutter apps
 - [FlutterFire](https://firebase.flutter.dev/docs/overview/) - Official Documentation of Flutter's Firebase plugins
-- [Firestore vs RTDB](https://firebase.google.com/docs/database/rtdb-vs-firestore) - Official Documentation that helps you choose between Firebase Realtime Database vs Firestore
+- [Firestore vs RTDB](https://firebase.google.com/docs/database/rtdb-vs-firestore) - Official Documentation that helps you choose between Realtime Database vs Firestore
 - [Firestore vs RTDB Article](https://medium.com/zero-equals-false/firebase-cloud-firestore-v-s-firebase-realtime-database-931d4265d4b0) - An article that points out the uses of Firestore vs RTDB
 
 # Machine Learning<a name="machineLearning"></a>
