@@ -46,7 +46,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
 - [Flutter Hooks](https://pub.dev/packages/flutter_hooks) - Hooks are a new kind of object that manages a Widget life-cycles. They exist for one reason: increase the code-sharing between widgets by removing duplicates by [dash-overflow.net](https://pub.dev/publishers/dash-overflow.net/packages). A Flutter implementation of React hooks.  
 - [Immutable Data Patterns in Dart and Flutter](https://dart-academy.cdn.ampproject.org/c/s/dart.academy/immutable-data-patterns-in-dart-and-flutter/amp/) - Immutable Data Patterns in Dart and Flutter
-- [Slivers](https://medium.com/swlh/flutter-slivers-and-customscrollview-1aaadf96e35a) A medium article explaining what Slivers are and how to use them.
+- [Slivers](https://medium.com/swlh/flutter-slivers-and-customscrollview-1aaadf96e35a) - A medium article explaining what Slivers are and how to use them.
 
 
 # UI Kit<a name="uiKit"></a>
