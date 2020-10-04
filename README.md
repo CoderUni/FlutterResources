@@ -38,6 +38,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animation Tutorial](https://www.youtube.com/watch?v=OtrWXLfGtqE&list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - A video playlist tutorial about using animations in Flutter by [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Animation CheatSheet](https://codesearchonline.com/index.php/flutter-implicit-animation/) - Flutter Implicit Animation Widgets CheatSheet
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
+- [Forms in Flutter](https://www.youtube.com/watch?v=2C16OP-xIwU&list=PLaY6YJMqp51ctPHYg1VAZ7wIs30cjhXNC) - Forms in Flutter with Validation Unit Test
 
 # Advanced 
 - [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
