@@ -50,7 +50,6 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Immutable Data Patterns in Dart and Flutter](https://dart-academy.cdn.ampproject.org/c/s/dart.academy/immutable-data-patterns-in-dart-and-flutter/amp/) - Immutable Data Patterns in Dart and Flutter
 - [Slivers](https://medium.com/swlh/flutter-slivers-and-customscrollview-1aaadf96e35a) - A medium article explaining what Slivers are and how to use them.
 
-
 # UI Kit<a name="uiKit"></a>
 - [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens) - Collection of nice flutter samples.
 - [Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) - Collection of useful UIs in a UIKit.
@@ -65,6 +64,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
 - [GetWidget](https://github.com/ionicfirebaseapp/getwidget) - GetWidget is open source libraries that come with pre-build 1000+ UI components.
 - [NASA APOD](https://github.com/sainiteshb/NASA-Apod-flutter) - NASA APOD fetches data from NASA API and displays information
+
 # Youtube Channels<a name="ytChannels"></a>
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - One of the best channels for flutter in English
