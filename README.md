@@ -8,10 +8,10 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
 - [UI Kit](#ui-kit)
-- [Wonderful Animations Plugin's](# Wonderful Animation Plugin's)
 - [Youtube Channels](#youtube-channels)
 - [Books](#books)
 - [Firebase](#firebase)
+- [Animations Plugins](#animationPlugins)
 - [Machine Learning](#machine-learning)
 - [Best Practices](#bestPractices)
 - [Contributing](#contributing)
@@ -66,14 +66,6 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [GetWidget](https://github.com/ionicfirebaseapp/getwidget) - GetWidget is open source libraries that come with pre-build 1000+ UI components.
 - [NASA APOD](https://github.com/sainiteshb/NASA-Apod-flutter) - NASA APOD fetches data from NASA API and displays information.
 
-# Wonderful Animation Plugin's
-- [Dough](https://pub.dev/packages/dough) - Let's create Squishy UI.
-- [Animation Set](https://github.com/YYFlutter/flutter-animation-set) - Simplified Flutter stagger animation.
-- [Spinkit](https://github.com/jogboms/flutter_spinkit) - A Collection of loading indicators animated with flutter.
-- [Drawing Animation](https://github.com/biocarl/drawing_animation) - Create Drawing Animations by SVG paths .
-- [Simple Animation](https://github.com/felixblaschke/simple_animations/tree/master/simple_animations) -Simple Animations is a powerful framework to create beautiful custom animations in no time.
-- [Animated Text Kit](https://github.com/aagarwal1012/Animated-Text-Kit) - A collection of some cool and awesome text animations.
-
 # Youtube Channels<a name="ytChannels"></a>
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - One of the best channels for flutter in English
@@ -97,7 +89,6 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [CodeX](https://www.youtube.com/c/CodeXdev/playlists) - CodeX shares tutorial videos related to Mobile Application Development and other programming aspects. If you're student, beginner programmer or even expert developer consider subscribing the channel to be updated with latest of Mobile development.
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator.
 
-
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
 - [Beginning App Development with Flutter](https://www.amazon.com/Beginning-App-Development-Flutter-Cross-Platform/dp/1484251806) - Easy to understand starter book.
@@ -109,6 +100,14 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [FlutterFire](https://firebase.flutter.dev/docs/overview/) - Official Documentation of Flutter's Firebase plugins
 - [Firestore vs RTDB](https://firebase.google.com/docs/database/rtdb-vs-firestore) - Official Documentation that helps you choose between Realtime Database vs Firestore
 - [Firestore vs RTDB Article](https://medium.com/zero-equals-false/firebase-cloud-firestore-v-s-firebase-realtime-database-931d4265d4b0) - An article that points out the uses of Firestore vs RTDB
+
+# Animation Plugins<a name="animationPlugins"></a>
+- [Dough](https://pub.dev/packages/dough) - Let's create Squishy UI.
+- [Animation Set](https://github.com/YYFlutter/flutter-animation-set) - Simplified Flutter stagger animation.
+- [Spinkit](https://github.com/jogboms/flutter_spinkit) - A Collection of loading indicators animated with flutter.
+- [Drawing Animation](https://github.com/biocarl/drawing_animation) - Create Drawing Animations by SVG paths .
+- [Simple Animation](https://github.com/felixblaschke/simple_animations/tree/master/simple_animations) -Simple Animations is a powerful framework to create beautiful custom animations in no time.
+- [Animated Text Kit](https://github.com/aagarwal1012/Animated-Text-Kit) - A collection of some cool and awesome text animations.
 
 # Machine Learning<a name="machineLearning"></a>
 - [TFLite](https://pub.dev/packages/tflite) - A Flutter plugin for accessing TensorFlow Lite. Supports both iOS and Android.
