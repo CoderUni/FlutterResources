@@ -63,7 +63,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [ChatBot 🤖](https://github.com/aniketambore/ChatbotSpirit-Codebase) - Incredible Chatbot using Flutter and Dialogflow.
 - [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
 - [GetWidget](https://github.com/ionicfirebaseapp/getwidget) - GetWidget is open source libraries that come with pre-build 1000+ UI components.
-- [E-Commerece Admin Side](https://github.com/Manthan-tech/E-Commerce_App_Admin_Side) Flutter + firebase full frontend and backend for managing E-Commerece
+- [E-Commerece Admin Side](https://github.com/Manthan-tech/E-Commerce_App_Admin_Side) - Flutter + firebase full frontend and backend for managing E-Commerece
+- [E-Commerce App UI](https://github.com/robertodevs/flutter_ecommerce_template) - e-Commerce UI Kit has the goal to help you to save time with the frontend development. You can use this template to build your apps for Android and iOS in Flutter. 
 
 # Youtube Channels<a name="ytChannels"></a>
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
