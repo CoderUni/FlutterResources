@@ -39,7 +39,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animation CheatSheet](https://codesearchonline.com/index.php/flutter-implicit-animation/) - Flutter Implicit Animation Widgets CheatSheet
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
 - [Forms in Flutter](https://www.youtube.com/watch?v=2C16OP-xIwU&list=PLaY6YJMqp51ctPHYg1VAZ7wIs30cjhXNC) - Forms in Flutter with Validation Unit Test
-
+- [Build & Release an Android App](https://flutter.dev/docs/deployment/android) - Building release version of flutter for android
+ 
 # Advanced 
 - [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
 - [RxDart](https://pub.dev/packages/rxdart) - A wrapper around streams that adds additional capabilities to Streams and StreamControllers by [ReactiveX](https://github.com/ReactiveX)
@@ -62,6 +63,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [ChatBot 🤖](https://github.com/aniketambore/ChatbotSpirit-Codebase) - Incredible Chatbot using Flutter and Dialogflow.
 - [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
 - [GetWidget](https://github.com/ionicfirebaseapp/getwidget) - GetWidget is open source libraries that come with pre-build 1000+ UI components.
+- [E-Commerece Admin Side](https://github.com/Manthan-tech/E-Commerce_App_Admin_Side) Flutter + firebase full frontend and backend for managing E-Commerece
 
 # Youtube Channels<a name="ytChannels"></a>
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
@@ -80,6 +82,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Practical programming course for beginners
 - [Desi programmer](https://www.youtube.com/c/DesiProgrammer) - Here you can also get some tutorials in Hindi
 - [Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured) - A Channel for beginners in Flutter to have a strong fundamental understanding
+- [Raja Yogan](https://www.youtube.com/watch?v=p3YNDjaCgxc) - A channel for flutter + firebase tutorials, you will learn how to make automated push notification.
 
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
