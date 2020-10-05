@@ -16,6 +16,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animations Plugins](#animationPlugins)
 - [Machine Learning](#machine-learning)
 - [Best Practices](#bestPractices)
+- [Reference Apps](#referenceApps)
 - [Contributing](#contributing)
 - [Support Me](#support-me)
 
@@ -147,6 +148,9 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Style Guides](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) - A Github Wiki showing the style guides for a Flutter project
 - [Best Practices](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) - An article that shows the best practices in Flutter
 - [Responsive Design in Flutter](https://flutter.dev/docs/development/ui/layout/responsive) - An article about how to create a responsive design that works for all devices like phones, web and desktop
+
+# Reference Apps<a name="referenceApps"></a>
+- [It's All Widgets](https://itsallwidgets.com/) - An open list of apps built on flutter.
 
 # Contributing
 
