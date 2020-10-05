@@ -39,6 +39,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 
 - [FlutterFire](https://firebase.flutter.dev/docs/overview/) - FlutterFire is a set of Flutter plugins which connect your Flutter application to [Firebase](https://firebase.google.com/)
 - [State Management](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options) - A list of State-Management Approaches in Flutter
+- [Flutter & Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - A video playlist tutorial about reating Flutter & Firebase app by NetNinja
 - [Provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable by [Remi Rousselet](https://github.com/rrousselGit)
 - [RiverPod](https://riverpod.dev/) - Compile safe, Provider, without its limitations, Doesn't depend on Flutter by [Remi Rousselet](https://github.com/rrousselGit)
 - [MVVM + Provider](https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo) - A Flutter MVVM + Provider implementation sample application by [Shubham Chhimpa](https://github.com/shubham-chhimpa)
@@ -51,7 +52,6 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animation in Flutter](https://www.didierboelens.com/2018/06/animations-in-flutter-easy-guide-tutorial/) - Animation in Flutter Easy Guide by [boeledi](https://github.com/boeledi/guillotine)
 
 # Advanced
-
 - [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
 - [RxDart](https://pub.dev/packages/rxdart) - A wrapper around streams that adds additional capabilities to Streams and StreamControllers by [ReactiveX](https://github.com/ReactiveX)
 - [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
@@ -74,6 +74,10 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
 - [GetWidget](https://github.com/ionicfirebaseapp/getwidget) - GetWidget is open source libraries that come with pre-build 1000+ UI components.
 - [NASA APOD](https://github.com/sainiteshb/NASA-Apod-flutter) - NASA APOD fetches data from NASA API and displays information.
+- [Flutter Intro Slider](https://pub.dev/packages/intro_slider) - Flutter Intro Slider is a flutter plugin that helps you make a cool intro for your app
+- [Flutter Rating Bar](https://pub.dev/packages/flutter_rating_bar) - A simple yet fully customizable rating bar for flutter which also include a rating bar indicator, supporting any fraction of rating.
+- [E-Commerece Admin Side](https://github.com/Manthan-tech/E-Commerce_App_Admin_Side) - Flutter + firebase full frontend and backend for managing E-Commerece
+- [E-Commerce App UI](https://github.com/robertodevs/flutter_ecommerce_template) - e-Commerce UI Kit has the goal to help you to save time with the frontend development. You can use this template to build your apps for Android and iOS in Flutter. 
 
 # Youtube Channels<a name="ytChannels"></a>
 
@@ -85,6 +89,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - A channel for creating beautiful UIs
 - [Reso Coder](https://www.youtube.com/c/ResoCoder) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator
 - [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials
+- [Easy Approach](https://www.youtube.com/channel/UC4hWRtPpBaq72ERUuKsvO7g) - A great channel which teaches complex flutter concepts in a simple manner with short and crisp videos.
 - [RetroPortal Studio](https://www.youtube.com/channel/UCW2ATgwtNrsBrE-piE2TIrA) - An amazing channel for UI and custom widgets development
 - [Santos Enoque](https://www.youtube.com/watch?v=Dy_zBF6rJFc&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF) - Building an E-commerce app in Flutter
 - [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI) - An entire crash course for beginners in Flutter
@@ -99,6 +104,9 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [CodeX](https://www.youtube.com/c/CodeXdev/playlists) - CodeX shares tutorial videos related to Mobile Application Development and other programming aspects. If you're student, beginner programmer or even expert developer consider subscribing the channel to be updated with latest of Mobile development.
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator.
 - [Babbar CODE HELP](https://www.youtube.com/channel/UCldyi11QYNXYXiLjVbyw5dA) - Have a Flutter Series 2020 playlist in Hindi (Project Based Learning) .
+- [Marcus Ng](https://www.youtube.com/c/MarcusNg/videos) - Marcus gives amazing tutorials for web & mobile responsive UI.
+- [Mitch Koko](https://www.youtube.com/c/MitchKoko/videos) - This channel has some awesome small games implemented in Flutter with really cool UIs.
+- [Raja Yogan](https://www.youtube.com/watch?v=p3YNDjaCgxc) - A channel for flutter + firebase tutorials, you will learn how to make automated push notification.
 
 # Books<a name="books"></a>
 
