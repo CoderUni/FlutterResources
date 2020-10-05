@@ -44,7 +44,9 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
 - [Forms in Flutter](https://www.youtube.com/watch?v=2C16OP-xIwU&list=PLaY6YJMqp51ctPHYg1VAZ7wIs30cjhXNC) - Forms in Flutter with Validation Unit Test
 
+
 # Advanced
+- [Build & Release an Android App](https://flutter.dev/docs/deployment/android) - Building release version of flutter for android
 - [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
 - [RxDart](https://pub.dev/packages/rxdart) - A wrapper around streams that adds additional capabilities to Streams and StreamControllers by [ReactiveX](https://github.com/ReactiveX)
 - [Rive Introduction](https://www.youtube.com/watch?v=6QZy5sYozVI) - An introduction in using Rive for complex Flutter animations by [Flutter](https://www.youtube.com/c/flutterdev)
@@ -68,6 +70,9 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [NASA APOD](https://github.com/sainiteshb/NASA-Apod-flutter) - NASA APOD fetches data from NASA API and displays information.
 - [Flutter Intro Slider](https://pub.dev/packages/intro_slider) - Flutter Intro Slider is a flutter plugin that helps you make a cool intro for your app
 - [Flutter Rating Bar](https://pub.dev/packages/flutter_rating_bar) - A simple yet fully customizable rating bar for flutter which also include a rating bar indicator, supporting any fraction of rating.
+- [E-Commerece Admin Side](https://github.com/Manthan-tech/E-Commerce_App_Admin_Side) - Flutter + firebase full frontend and backend for managing E-Commerece
+- [E-Commerce App UI](https://github.com/robertodevs/flutter_ecommerce_template) - e-Commerce UI Kit has the goal to help you to save time with the frontend development. You can use this template to build your apps for Android and iOS in Flutter. 
+
 
 # Youtube Channels<a name="ytChannels"></a>
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
@@ -95,6 +100,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Babbar CODE HELP](https://www.youtube.com/channel/UCldyi11QYNXYXiLjVbyw5dA) - Have a Flutter Series 2020 playlist in Hindi (Project Based Learning) .
 - [Marcus Ng](https://www.youtube.com/c/MarcusNg/videos) - Marcus gives amazing tutorials for web & mobile responsive UI.
 - [Mitch Koko](https://www.youtube.com/c/MitchKoko/videos) - This channel has some awesome small games implemented in Flutter with really cool UIs.
+- [Raja Yogan](https://www.youtube.com/watch?v=p3YNDjaCgxc) - A channel for flutter + firebase tutorials, you will learn how to make automated push notification.
+
 
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
