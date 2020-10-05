@@ -33,6 +33,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 # Intermediate
 - [FlutterFire](https://firebase.flutter.dev/docs/overview/) - FlutterFire is a set of Flutter plugins which connect your Flutter application to [Firebase](https://firebase.google.com/)
 - [State Management](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options) - A list of State-Management Approaches in Flutter
+- [Flutter & Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - A video playlist tutorial about reating Flutter & Firebase app by NetNinja
 - [Provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable by [Remi Rousselet](https://github.com/rrousselGit)
 - [RiverPod](https://riverpod.dev/) - Compile safe, Provider, without its limitations, Doesn't depend on Flutter by [Remi Rousselet](https://github.com/rrousselGit)
 - [MVVM + Provider](https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo) - A Flutter MVVM + Provider implementation sample application by [Shubham Chhimpa](https://github.com/shubham-chhimpa)
