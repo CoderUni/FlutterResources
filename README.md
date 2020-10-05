@@ -92,6 +92,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator.
 - [Babbar CODE HELP](https://www.youtube.com/channel/UCldyi11QYNXYXiLjVbyw5dA) - Have a Flutter Series 2020 playlist in Hindi (Project Based Learning) .
 - [Marcus Ng](https://www.youtube.com/c/MarcusNg/videos) - Marcus gives amazing tutorials for web & mobile responsive UI.
+- [Mitch Koko](https://www.youtube.com/c/MitchKoko/videos) - This channel has some awesome small games implemented in Flutter with really cool UIs.
 
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
