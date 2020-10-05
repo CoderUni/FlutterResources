@@ -65,6 +65,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Covid-19-Global-Mapper](https://github.com/aniketambore/Covid-19-Global-Mapper-Flutter-Dart-Project-) - Tracking Covid-19 cases on a Map based view.
 - [GetWidget](https://github.com/ionicfirebaseapp/getwidget) - GetWidget is open source libraries that come with pre-build 1000+ UI components.
 - [NASA APOD](https://github.com/sainiteshb/NASA-Apod-flutter) - NASA APOD fetches data from NASA API and displays information.
+- [Flutter Intro Slider](https://pub.dev/packages/intro_slider) - Flutter Intro Slider is a flutter plugin that helps you make a cool intro for your app
+- [Flutter Rating Bar](https://pub.dev/packages/flutter_rating_bar) - A simple yet fully customizable rating bar for flutter which also include a rating bar indicator, supporting any fraction of rating.
 
 # Youtube Channels<a name="ytChannels"></a>
 - [Flutter](https://www.youtube.com/c/flutterdev) - The official flutter channel is the best place to get started
@@ -89,6 +91,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [CodeX](https://www.youtube.com/c/CodeXdev/playlists) - CodeX shares tutorial videos related to Mobile Application Development and other programming aspects. If you're student, beginner programmer or even expert developer consider subscribing the channel to be updated with latest of Mobile development.
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator.
 - [Babbar CODE HELP](https://www.youtube.com/channel/UCldyi11QYNXYXiLjVbyw5dA) - Have a Flutter Series 2020 playlist in Hindi (Project Based Learning) .
+- [Marcus Ng](https://www.youtube.com/c/MarcusNg/videos) - Marcus gives amazing tutorials for web & mobile responsive UI.
 - [Mitch Koko](https://www.youtube.com/c/MitchKoko/videos) - This channel has some awesome small games implemented in Flutter with really cool UIs.
 
 # Books<a name="books"></a>
