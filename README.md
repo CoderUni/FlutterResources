@@ -77,7 +77,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - A channel for creating beautiful UIs
 - [Reso Coder](https://www.youtube.com/c/ResoCoder) - Reso Coder by [Matt Rešetár] Matt is an app developer with a knack for teaching others. Working as a Flutter freelancer and most importantly developer educator
 - [Mtechviral](https://www.youtube.com/c/MTechViral) - First Indian YouTuber who started flutter tutorials
-- [easyapproach](https://www.youtube.com/channel/UC4hWRtPpBaq72ERUuKsvO7g) - A great channel which teaches complex flutter concepts in a simple manner with short and crisp videos.
+- [Easy Approach](https://www.youtube.com/channel/UC4hWRtPpBaq72ERUuKsvO7g) - A great channel which teaches complex flutter concepts in a simple manner with short and crisp videos.
 - [RetroPortal Studio](https://www.youtube.com/channel/UCW2ATgwtNrsBrE-piE2TIrA) - An amazing channel for UI and custom widgets development
 - [Santos Enoque](https://www.youtube.com/watch?v=Dy_zBF6rJFc&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF) - Building an E-commerce app in Flutter
 - [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI) - An entire crash course for beginners in Flutter
