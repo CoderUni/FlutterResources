@@ -108,6 +108,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Marcus Ng](https://www.youtube.com/c/MarcusNg/videos) - Marcus gives amazing tutorials for web & mobile responsive UI.
 - [Mitch Koko](https://www.youtube.com/c/MitchKoko/videos) - This channel has some awesome small games implemented in Flutter with really cool UIs.
 - [Raja Yogan](https://www.youtube.com/watch?v=p3YNDjaCgxc) - A channel for flutter + firebase tutorials, you will learn how to make automated push notification.
+- [Johannes Milke](https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA) - A useful channel with short, helpful videos to learn about Flutter widgets & other cool stuff.
+- [Code With Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q) - A helpful channel to learn Dart & Flutter. Andrea, the instructor explains well.
 
 # Books<a name="books"></a>
 
