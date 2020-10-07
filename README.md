@@ -17,7 +17,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Machine Learning](#machine-learning)
 - [Best Practices](#bestPractices)
 - [Reference Apps](#referenceApps)
-- [Useful Blogs/Websites](#useful Blogs/Websites)
+- [Useful Blogs/Websites](#usefulBlogs/Websites)
 - [Contributing](#contributing)
 - [Support Me](#support-me)
 
@@ -157,7 +157,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 # Reference Apps<a name="referenceApps"></a>
 - [It's All Widgets](https://itsallwidgets.com/) - An open list of apps built on flutter.
 
-# Useful Blogs/Websites<a name="useful Blogs/Websites"></a>
+# Useful Blogs/Websites<a name="usefulBlogs/Websites"></a>
 - [Flutter Dev's](http://flutterdevs.com/blog/) 
 - [Flutter Medium](https://medium.com/flutter) 
 - [Dev Flutter](https://dev.to/t/flutter?utm_source=devglan) 
