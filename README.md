@@ -47,6 +47,10 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI) - An entire crash course for beginners in Flutter
 - [FreeCodeCamp.org](https://www.youtube.com/watch?v=pTJJsmejUOQ) - A full tutorial for building iOS and Android apps in Flutter
 - [Google Developers](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr) - A playlist of Flutter guides from Google themselves
+- [Afgprogrammer](https://www.youtube.com/channel/UCuXm84E6yWF0dIKmwvwc9sQ) - An extremely helpful channel for user interface design.
+- [Techie Blossom](https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q) - Showing tutorial videos for industry standard apps using flutter.
+
+
 
 # Instagram Pages 
 - [flutter.developers](https://instagram.com/flutter.developers?igshid=sjsr4bs4jztf)
