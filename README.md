@@ -119,6 +119,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Beginning App Development with Flutter](https://www.amazon.com/Beginning-App-Development-Flutter-Cross-Platform/dp/1484251806) - Easy to understand starter book.
 - [Flutter for Beginners](https://www.amazon.com/Flutter-Beginners-introductory-cross-platform-applications/dp/1788996089) - A step-by-step guide to learning Flutter and Dart 2.X
 - [Learn Google Flutter Fast: 65 Example Apps](https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375) - Learn Google Flutter by example. Over 65 example mini-apps.
+- [Practical Flutter Improve your Mobile Development with Google’s Latest Open-Source SDK](https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source-ebook/dp/B07VJ7FDN5) - Concise practical examples for quick and easy build
 
 # Firebase<a name="firebase"></a>
 
