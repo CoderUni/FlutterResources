@@ -114,6 +114,9 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Johannes Milke](https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA) - A useful channel with short, helpful videos to learn about Flutter widgets & other cool stuff.
 - [Code With Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q) - A helpful channel to learn Dart & Flutter. Andrea, the instructor explains well.
 - [Osama Asif](https://www.youtube.com/channel/UC9rZnxaqFwTZYMzuJUEKOLQ) - This channel has some awesome content in Flutter.
+- [London App Brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w) - The best channel to learn Flutter.
+- [Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWT_JKom7xDKdHl1gp3o_AH1) - A great playlist to learn Bloc.
+- [Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-knQWGK2IC49Q_5AnQrFpzv) - Great tutorials for beginners.
 
 # Books<a name="books"></a>
 
@@ -165,7 +168,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Dev's](http://flutterdevs.com/blog/) 
 - [Flutter Medium](https://medium.com/flutter) 
 - [Dev Flutter](https://dev.to/t/flutter?utm_source=devglan) 
-- [Geeky Ant's Flutter](https://blog.geekyants.com/flutter/home) 
+- [Geeky Ant's Flutter](https://blog.geekyants.com/flutter/home)
+- [Flutter Gems](https://fluttergems.dev/)
 
 # Contributing
 
