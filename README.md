@@ -97,6 +97,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI) - An entire crash course for beginners in Flutter
 - [FreeCodeCamp.org](https://www.youtube.com/watch?v=pTJJsmejUOQ) - A full tutorial for building iOS and Android apps in Flutter
 - [Google Developers](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr) - A playlist of Flutter guides from Google themselves
+- [Afgprogrammer](https://www.youtube.com/channel/UCuXm84E6yWF0dIKmwvwc9sQ) - An extremely helpful channel for user interface design.
+- [Techie Blossom](https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q) - Showing tutorial videos for industry standard apps using flutter.
 - [FilledStacks](https://www.youtube.com/c/FilledStacks/playlists) - A Channel for Flutter Production Code
 - [ReactBits](https://www.youtube.com/c/ReactBits/playlists) - Flutter + Appwrite Tutorial Series
 - [Flutter Explained](https://www.youtube.com/c/FlutterExplained) - The Wikipedia For Flutter development
@@ -120,6 +122,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter for Beginners](https://www.amazon.com/Flutter-Beginners-introductory-cross-platform-applications/dp/1788996089) - A step-by-step guide to learning Flutter and Dart 2.X
 - [Learn Google Flutter Fast: 65 Example Apps](https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375) - Learn Google Flutter by example. Over 65 example mini-apps.
 - [Practical Flutter Improve your Mobile Development with Google’s Latest Open-Source SDK](https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source-ebook/dp/B07VJ7FDN5) - Concise practical examples for quick and easy build
+
 
 # Firebase<a name="firebase"></a>
 
