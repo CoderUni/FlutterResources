@@ -52,6 +52,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
 - [Forms in Flutter](https://www.youtube.com/watch?v=2C16OP-xIwU&list=PLaY6YJMqp51ctPHYg1VAZ7wIs30cjhXNC) - Forms in Flutter with Validation Unit Test
 - [Animation in Flutter](https://www.didierboelens.com/2018/06/animations-in-flutter-easy-guide-tutorial/) - Animation in Flutter Easy Guide by [boeledi](https://github.com/boeledi/guillotine)
+- [AWS Amplify](https://docs.amplify.aws/start/q/integration/flutter) - AWS Amplify is an end-to-end solution that enables mobile and front-end web developers to build and deploy secure, scalable full stack applications, powered by [AWS](https://aws.amazon.com/amplify/)
 
 # Advanced
 - [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
