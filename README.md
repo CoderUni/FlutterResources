@@ -80,7 +80,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Intro Slider](https://pub.dev/packages/intro_slider) - Flutter Intro Slider is a flutter plugin that helps you make a cool intro for your app
 - [Flutter Rating Bar](https://pub.dev/packages/flutter_rating_bar) - A simple yet fully customizable rating bar for flutter which also include a rating bar indicator, supporting any fraction of rating.
 - [E-Commerece Admin Side](https://github.com/Manthan-tech/E-Commerce_App_Admin_Side) - Flutter + firebase full frontend and backend for managing E-Commerece
-- [E-Commerce App UI](https://github.com/robertodevs/flutter_ecommerce_template) - e-Commerce UI Kit has the goal to help you to save time with the frontend development. You can use this template to build your apps for Android and iOS in Flutter. 
+- [E-Commerce App UI](https://github.com/robertodevs/flutter_ecommerce_template) - e-Commerce UI Kit has the goal to help you to save time with the frontend development. You can use this template to build your apps for Android and iOS in Flutter.  
+- [Trending Headlines](https://github.com/sainiteshb/News-App-Flutter) - Trending Headlines using the NewsAPI to fetch latest data
 
 # Youtube Channels<a name="ytChannels"></a>
 
