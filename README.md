@@ -61,6 +61,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Hooks](https://pub.dev/packages/flutter_hooks) - Hooks are a new kind of object that manages a Widget life-cycles. They exist for one reason: increase the code-sharing between widgets by removing duplicates by [dash-overflow.net](https://pub.dev/publishers/dash-overflow.net/packages). A Flutter implementation of React hooks.
 - [Immutable Data Patterns in Dart and Flutter](https://dart-academy.cdn.ampproject.org/c/s/dart.academy/immutable-data-patterns-in-dart-and-flutter/amp/) - Immutable Data Patterns in Dart and Flutter
 - [Slivers](https://medium.com/swlh/flutter-slivers-and-customscrollview-1aaadf96e35a) - A medium article explaining what Slivers are and how to use them.
+- [Mobx](https://mobx.netlify.app/) - A simple state manager that can update a specific stateless widget without using a STATE MANAGER like [Mobx](https://mobx.netlify.app/) 
+
 
 # UI Kit<a name="uiKit"></a>
 
