@@ -36,6 +36,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) - Introducing new widgets every week by [Flutter](https://www.youtube.com/c/flutterdev)
 - [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale)
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
+- [Angela Yu's Flutter Beginner's Course](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
 
 # Intermediate
 
@@ -61,7 +62,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Hooks](https://pub.dev/packages/flutter_hooks) - Hooks are a new kind of object that manages a Widget life-cycles. They exist for one reason: increase the code-sharing between widgets by removing duplicates by [dash-overflow.net](https://pub.dev/publishers/dash-overflow.net/packages). A Flutter implementation of React hooks.
 - [Immutable Data Patterns in Dart and Flutter](https://dart-academy.cdn.ampproject.org/c/s/dart.academy/immutable-data-patterns-in-dart-and-flutter/amp/) - Immutable Data Patterns in Dart and Flutter
 - [Slivers](https://medium.com/swlh/flutter-slivers-and-customscrollview-1aaadf96e35a) - A medium article explaining what Slivers are and how to use them.
-
+- [Stacked](https://www.filledstacks.com/post/flutter-state-management-with-stacked/) - A video (plus article) on the use of Stacked for architecture and state management.
 # UI Kit<a name="uiKit"></a>
 
 - [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens) - Collection of nice flutter samples.
