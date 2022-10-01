@@ -93,6 +93,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Babbar CODE HELP](https://www.youtube.com/channel/UCldyi11QYNXYXiLjVbyw5dA) - Have a Flutter Series 2020 playlist in Hindi (Project Based Learning) .
 - [Marcus Ng](https://www.youtube.com/c/MarcusNg/videos) - Marcus gives amazing tutorials for web & mobile responsive UI.
 - [Mitch Koko](https://www.youtube.com/c/MitchKoko/videos) - This channel has some awesome small games implemented in Flutter with really cool UIs.
+- [Techno Made](https://www.youtube.com/channel/UCAVL2AU7us8QSRQYARBbx5Q) - This Channel has videos to crate apps for your IoT remote control projects.
 
 # Books<a name="books"></a>
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
