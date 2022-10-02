@@ -139,6 +139,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Firestore vs RTDB](https://firebase.google.com/docs/database/rtdb-vs-firestore) - Official Documentation that helps you choose between Realtime Database vs Firestore
 - [Firestore vs RTDB Article](https://medium.com/zero-equals-false/firebase-cloud-firestore-v-s-firebase-realtime-database-931d4265d4b0) - An article that points out the uses of Firestore vs RTDB
 - [Firestore with Flutter Tutorial](https://medium.com/@atul.sharma_94062/how-to-use-cloud-firestore-with-flutter-e6f9e8821b27)
+- [Rowy - Manage Cloud Firestore Data with Spreadsheet UI](https://www.rowy.io/) - Connect to your database and build cloud functions. All in your browser. Forget CLIs, config, and DevOps. Focus on building your apps.
 
 # Animation Plugins<a name="animationPlugins"></a>
 
