@@ -123,6 +123,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-knQWGK2IC49Q_5AnQrFpzv) - Great tutorials for beginners.
 - [Abhishvek](https://www.youtube.com/channel/UCIxJGxcB4pSrIvuv8FyuqUA) - This channel is great for those who wants to start with custom backend for Flutter.
 - [Rivaan Ranawat](https://www.youtube.com/c/RivaanRanawat) - This channel is great for those who wants a tutorial to learn and build clone apps for their portfolio.
+- [Tadas Petra](https://www.youtube.com/channel/UCNaJHBXsvbfkItVMNmzmTPQ) -A useful channel covers the newest trends in the World of Flutter and Dart.
 # Books<a name="books"></a>
 
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
