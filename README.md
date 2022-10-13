@@ -38,6 +38,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale)
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
 - [Angela Yu's Flutter Beginner's Course](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
+- [Getting Started with Flutter](https://www.raywenderlich.com/24499516-getting-started-with-flutter) - Interactive Flutter Beginner Guide with various downloadable materials.
+
 
 # Intermediate
 
@@ -64,6 +66,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Immutable Data Patterns in Dart and Flutter](https://dart-academy.cdn.ampproject.org/c/s/dart.academy/immutable-data-patterns-in-dart-and-flutter/amp/) - Immutable Data Patterns in Dart and Flutter
 - [Slivers](https://medium.com/swlh/flutter-slivers-and-customscrollview-1aaadf96e35a) - A medium article explaining what Slivers are and how to use them.
 - [Stacked](https://www.filledstacks.com/post/flutter-state-management-with-stacked/) - A video (plus article) on the use of Stacked for architecture and state management.
+- [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) - Flutter Deep Dive on Gestures
 # UI Kit<a name="uiKit"></a>
 
 - [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens) - Collection of nice flutter samples.
@@ -84,6 +87,11 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [E-Commerece Admin Side](https://github.com/Manthan-tech/E-Commerce_App_Admin_Side) - Flutter + firebase full frontend and backend for managing E-Commerece
 - [E-Commerce App UI](https://github.com/robertodevs/flutter_ecommerce_template) - e-Commerce UI Kit has the goal to help you to save time with the frontend development. You can use this template to build your apps for Android and iOS in Flutter.  
 - [Trending Headlines](https://github.com/sainiteshb/News-App-Flutter) - Trending Headlines using the NewsAPI to fetch latest data
+- [Staggered Grid View](https://github.com/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes
+- [Flip Pannel](https://github.com/hnvn/flutter_flip_panel) - Flip panel with built-in animation
+- [Flutter Tags](https://github.com/Dn-a/flutter_tags) - Tags with different customizations
+- [Slidable](https://github.com/letsar/flutter_slidable) - Slidable list item with left and right slide actions
+- [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) - Calendar organized neatly into a Table, with vertical autosizing
 
 # Youtube Channels<a name="ytChannels"></a>
 
@@ -158,6 +166,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Speech_to_Text](https://pub.dev/packages/speech_to_text) - A Flutter plugin that exposes device specific speech to text recognition capability.
 - [Firebase_ML_Vision](https://pub.dev/packages/firebase_ml_vision) - Flutter plugin for Firebase machine learning vision services.
 - [Edge_Detection](https://pub.dev/packages/edge_detection) - A flutter plugin to detect edges of objects, scan paper, detect corner, detect rectangle. It allows cropping of the detected object image and returns the path of the cropped image.
+- [MLKit](https://github.com/azihsoyn/flutter_mlkit) - A Flutter plugin to use the Firebase ML Kit.
+- [Flutter Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) - Flutter implementation of Google Mobile Vision.
 
 # Best Pratices<a name="bestPractices"></a>
 
@@ -178,6 +188,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Dev Flutter](https://dev.to/t/flutter?utm_source=devglan) 
 - [Geeky Ant's Flutter](https://blog.geekyants.com/flutter/home)
 - [Flutter Gems](https://fluttergems.dev/)
+- [The International Flutter Starter Kit](https://medium.com/flutter-community/intl-flutter-starter-kit-18415e739fb6)
+- [Flutter Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions)
 
 # Contributing
 
