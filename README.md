@@ -92,6 +92,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) - Tags with different customizations
 - [Slidable](https://github.com/letsar/flutter_slidable) - Slidable list item with left and right slide actions
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) - Calendar organized neatly into a Table, with vertical autosizing
+- [Infinite Calendar View](https://github.com/pickywawa/infinite_calendar_view) - Infinite scrolling calendar views (planner, day, multi-day, month and events list) with drag and drop, pinch to zoom and multi-column support
 
 # Youtube Channels<a name="ytChannels"></a>
 
