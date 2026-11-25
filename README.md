@@ -52,7 +52,6 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animation Intro](https://flutter.dev/docs/development/ui/animations) - An introduction in creating animations by [Flutter](https://flutter.dev/)
 - [Animation Intro Youtube Playlist Version](https://www.youtube.com/watch?v=GXIJJkq_H8g&list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua) by [Flutter](https://www.youtube.com/c/flutterdev)
 - [Animation Tutorial](https://www.youtube.com/watch?v=OtrWXLfGtqE&list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - A video playlist tutorial about using animations in Flutter by [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- [Animation CheatSheet](https://codesearchonline.com/index.php/flutter-implicit-animation/) - Flutter Implicit Animation Widgets CheatSheet
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
 - [Forms in Flutter](https://www.youtube.com/watch?v=2C16OP-xIwU&list=PLaY6YJMqp51ctPHYg1VAZ7wIs30cjhXNC) - Forms in Flutter with Validation Unit Test
 - [Animation in Flutter](https://www.didierboelens.com/2018/06/animations-in-flutter-easy-guide-tutorial/) - Animation in Flutter Easy Guide by [boeledi](https://github.com/boeledi/guillotine)
@@ -171,7 +170,6 @@ A list of Free Flutter resources that will help people get started with Flutter.
 
 # Best Pratices<a name="bestPractices"></a>
 
-- [State Management Grand Tour](https://fireship.io/lessons/flutter-state-management-guide/) - An article/video explaining the different state management approaches and why you should not use setState
 - [Safe Async](https://recipes.tst.sh/docs/architecture/safe-async.html) - An article that teaches how to make FutureBuilder/StreamBuilder properly
 - [Performance](https://flutter.dev/docs/perf/rendering/best-practices) - Official Flutter documentation on how to make your Flutter app as performant as possible
 - [Stateless Widget vs Widget Function](https://stackoverflow.com/questions/53234825/what-is-the-difference-between-functions-and-classes-to-create-reusable-widgets) - A StackOverFlow answer explaining why its better to use Stateless Widgets to build reusable widgets.
@@ -190,6 +188,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Gems](https://fluttergems.dev/)
 - [The International Flutter Starter Kit](https://medium.com/flutter-community/intl-flutter-starter-kit-18415e739fb6)
 - [Flutter Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions)
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 # Contributing
 
